@@ -1,4 +1,4 @@
-# Assembly System Calls and Interacting with OS
+# Nasm x86 Assembly System Calls and Interacting with OS
 
 This repository contains exercises and examples focused on system calls and interacting with the operating system using
 assembly language. These examples are built using NASM assembler on a Windows x64 environment, and they illustrate how
